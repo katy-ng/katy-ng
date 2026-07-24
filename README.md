@@ -16,7 +16,7 @@ ___
 * **Tech Stack**: JavaScript, HTML/CSS, React, Gemini API, 3.js, React Three Fiber
 * **Result**: This project was submitted for WiCS HopperHacks 2026 and won 🏆first place🏆 in the Sustainability track!
 
-__
+___
 
 ###🛠️ My Tech Stack:
 * **Languages**: Python, Java, C
@@ -24,7 +24,7 @@ __
 * **Web Development**: JavaScript, HTML, CSS, Node.js
 * **Databases**: SQL, MySQL
 
-__
+___
 
 ###📫 How to Reach Me:
 * **Email**: katyng3000@gmail.com

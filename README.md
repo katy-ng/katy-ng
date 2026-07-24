@@ -1,5 +1,6 @@
 ## 😺 Hey there! I'm Katy ✨
 **🎓 Sophomore at Stony Brook University, studying Computer Science**
+
 **💻 Aspiring Software Developer who implements AI to support human creativity**
 
 ___

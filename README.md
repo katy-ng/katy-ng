@@ -11,7 +11,7 @@ Currently, I'm focused on building machine learning models that tackle real-worl
 
 ___
 
-###🎯Featured Project: 💮EcoSnap💮
+##🎯Featured Project: 💮EcoSnap💮
 * **What Is EcoSnap?** A web application that gamifies recycling. By uploading pictures of the trash they recycled, users gain points they can use to grow their digital cherry blossom forest.
 * **How Was It Made?** Implemented Gemini API to scan user-uploaded images and generate recycling suggestions. Leveraged 3.js to model the forest and React Three Fiber for the interactive UI.
 * **Tech Stack**: JavaScript, HTML/CSS, React, Gemini API, 3.js, React Three Fiber
@@ -19,7 +19,7 @@ ___
 
 ___
 
-###🛠️ My Tech Stack:
+##🛠️ My Tech Stack:
 * **Languages**: Python, Java, C
 * **Data Science/ML**: Pandas, NumPy, scikit-learn, Seaborn, Matplotlib
 * **Web Development**: JavaScript, HTML, CSS, Node.js
@@ -27,6 +27,6 @@ ___
 
 ___
 
-###📫 How to Reach Me:
+##📫 How to Reach Me:
 * **Email**: katyng3000@gmail.com
 * **LinkedIn**: https://www.linkedin.com/in/katy-ng-
